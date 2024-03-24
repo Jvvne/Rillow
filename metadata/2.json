@@ -1,0 +1,33 @@
+{
+    "name": "San Diego CA Condo Home",
+    "address": "700 W West E SUITE 3502, CA 92101",
+    "description": "Welcome to your exclusive sanctuary high above the bustling city",
+    "image": "https://teal-bizarre-rook-250.mypinata.cloud/ipfs/QmYongELSBjuVAgjaCm1GLwe5m8pWA2nvUNLKTvX6wKhG4/2.png",
+    "id": "2",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 15
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Single family residence"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 4
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 2
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 1456
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2007
+        }
+    ]
+}
