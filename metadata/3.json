@@ -1,0 +1,33 @@
+{
+    "name": "CA Nature Condo",
+    "address": "20 Willow Rd APT 26, Menlo Park, CA 94025",
+    "description": "Welcome to your dream home in the heart of Linfield Oaks!",
+    "image": "https://teal-bizarre-rook-250.mypinata.cloud/ipfs/QmYongELSBjuVAgjaCm1GLwe5m8pWA2nvUNLKTvX6wKhG4/3.png",
+    "id": "3",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 10
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Single family residence"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 2
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 2
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 1041
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 1965
+        }
+    ]
+}

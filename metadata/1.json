@@ -1,0 +1,33 @@
+{
+    "name": "Luxury Malibu Residential",
+    "address": "11870 Ellice St, Malibu, CA 90265",
+    "description": "Luxury Residential located in the heart of Malibu",
+    "image": "https://teal-bizarre-rook-250.mypinata.cloud/ipfs/QmYongELSBjuVAgjaCm1GLwe5m8pWA2nvUNLKTvX6wKhG4/1.png",
+    "id": "1",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 20
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "House"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 6
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 10
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 20000
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2022
+        }
+    ]
+}
